@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ong9GDxvX0vvWzDFRRCTTNrFUv51K/ddojy4kCAFJ68=",
+  "Source": "UMBIT.gRPC.Server",
+  "BasePath": "_content/UMBIT.gRPC.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
